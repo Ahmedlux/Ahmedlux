@@ -8,7 +8,7 @@ Building open-source AI tools for quantum healing, nervous system regulation, an
 ## 🛠 Tech Stack
 | AI/ML | Dev Tools | Wellness |
 |-------|-----------|----------|
-| Claude, Grok, Google AI Studio | Bubble Ai, Bolt Ai, Emergent | 
+| Claude, Grok, Google AI Studio | Bubble Ai, Bolt Ai, Emergent | Quantum Ai |
 
 
  
